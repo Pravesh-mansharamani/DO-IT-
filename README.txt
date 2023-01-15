@@ -1,2 +1,2 @@
-# DO-IT-
+# DO-IT
 Its a chrome extension
