@@ -1,2 +1,2 @@
 # DO-IT
-Its a chrome extension
+It's a productivity chrome extension
